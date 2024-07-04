@@ -1,0 +1,14 @@
+path: D:\UsingSpace\Projects\Artificial Intelligent\ComputerVision\ObjectDetection\YOLO\Light Control Using Hand Movement\Dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Human-hand']
+
+roboflow:
+  workspace: mihai-ciobotaru-mkasd
+  project: human-hand-vi8mf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mihai-ciobotaru-mkasd/human-hand-vi8mf/dataset/1

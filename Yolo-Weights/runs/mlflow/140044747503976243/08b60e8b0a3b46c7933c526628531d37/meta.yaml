@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/UsingSpace/Projects/Artificial Intelligent/ComputerVision/ObjectDetection/YOLO/Light
+  Control Using Hand Movement/Yolo-Weights/runs/mlflow/140044747503976243/08b60e8b0a3b46c7933c526628531d37/artifacts
+end_time: 1720004180047
+entry_point_name: ''
+experiment_id: '140044747503976243'
+lifecycle_stage: active
+run_id: 08b60e8b0a3b46c7933c526628531d37
+run_name: train
+run_uuid: 08b60e8b0a3b46c7933c526628531d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719996856674
+status: 3
+tags: []
+user_id: Admins
